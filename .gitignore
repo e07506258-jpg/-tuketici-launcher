@@ -1,0 +1,21 @@
+# Build çıktıları
+build/
+*.exe
+*.o
+*.obj
+*.a
+
+# Qt Creator
+*.user
+*.user.*
+*.qbs.user
+*.qbs.user.*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# patch klasörü (geçici dosyalar)
+patch/
